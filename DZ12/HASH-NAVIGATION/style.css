@@ -1,0 +1,68 @@
+#bout{
+    position:absolute;
+    margin-left: 50px;
+    margin-top:10px;
+    width: 210px;
+}
+
+#bcolor{
+    position:absolute;
+    margin-left: 330px;
+    margin-top:10px;
+    width: 150px;
+}
+
+#bkonv{
+    position:absolute;
+    margin-left: 570px;
+    margin-top:10px;
+    width: 150px;
+}
+
+#btn4{
+    position:absolute;
+    margin-left: 810px;
+    margin-top:10px;
+    width: 150px;
+}
+
+#btn5{
+    position:absolute;
+    margin-left: 1050px;
+    margin-top:10px;
+    width: 150px;
+}
+
+.menu {
+    height: 100px;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+ a {
+    border: 1px;
+    border-radius: 10px;
+    background-color: rgb(39, 34, 34);
+    padding: 10px;
+    font-size: 24px;
+    text-align: center;
+}
+
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.container {
+    text-align: center;
+}
+
+h2 {
+    padding-top: 30px;
+    font-size: 40px;
+}
+
+

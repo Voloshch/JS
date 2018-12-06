@@ -1,0 +1,131 @@
+body{
+	background-color: black;
+}
+.block1{
+	background-color: #c2c2c2;
+	width: 300px;
+	height: 50px;
+	margin-top: 10px;
+	margin-left: 100px;
+	opacity: 0.9;
+	border-radius: 10px 10px 0px 0px;
+}
+.block{
+	background: url(img.jpg) no-repeat center center fixed;
+	width: 1100px;
+	height: 550px;
+	margin-top: 0px;
+	margin-left: 100px;
+	border-radius: 0px 10px 10px 10px;
+}
+.konv{
+	position: absolute;
+	background-color: #2b2b2b;
+	opacity: 0.9;
+	width: 900px;
+	height: 450px;
+	margin-top: 50px;
+	margin-left: 100px;
+	border-radius: 10px 10px 10px 10px;
+}
+
+#text1{
+	position: absolute;
+	margin-top: 140px;
+	margin-left:30px;
+	width: 275px;
+	height: 8px;
+}
+#val1{
+	position: absolute;
+	margin-top: 50px;
+	margin-left:30px;
+	width: 300px;
+	height: 28px;
+}
+#val2{
+	position: absolute;
+	margin-top: 50px;
+	margin-left:90px;
+	width: 300px;
+	height: 28px;
+}
+#text2{
+	position: absolute;
+	margin-top: 140px;
+	margin-left:90px;
+	width: 275px;
+	height: 8px;
+}
+h1{
+	margin-left:20px;
+	margin-top:20px;
+}
+#t1{
+	position: absolute;
+	margin-left:30px;
+	margin-top:20px;
+	
+	font-size: 20px;
+}
+#t2{
+	position: absolute;
+	margin-left:540px;
+	margin-top:20px;
+	
+	font-size: 20px;
+}
+#t3{
+	position: absolute;
+	margin-left:30px;
+	margin-top:110px;
+	
+	font-size: 20px;
+}
+#t4{
+	position: absolute;
+	margin-left:90px;
+	margin-top:110px;
+	
+	font-size: 20px;
+}
+input{
+	padding: 10px 10px;
+}
+#str{
+	width: 50px;
+	height: 50px;
+	margin-top: 80px;
+	margin-left: 400px;
+}
+
+a.button1 {
+  margin-top:220px;
+  margin-left: -105px;
+  position: absolute;
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+  text-shadow: -1px -1px #000;
+  user-select: none;
+  padding: .8em 2em;
+  outline: none;
+  background-color: #000;
+  background-image: linear-gradient(45deg, rgba(255,255,255,.0) 30%, rgba(255,255,255,.8), rgba(255,255,255,.0) 70%), radial-gradient(190% 100% at 50% 0%, rgba(255,255,255,.7) 0%, rgba(255,255,255,.5) 50%, rgba(0,0,0,0) 50%);
+  background-repeat: no-repeat;
+  background-size: 200% 100%, auto;
+  background-position: 200% 0, 0 0;
+  box-shadow: rgba(0,0,0,.3) 0 2px 5px;
+} 
+a.button1:active {
+  top: 1px;
+  box-shadow: none;
+}
+a.button1:hover {
+  transition: .5s linear;
+  background-position: -200% 0, 0 0;
+}
+#divv{
+	margin-top:200px;
+    margin-left: 300px;
+}

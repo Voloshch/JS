@@ -1,0 +1,151 @@
+[
+{
+	"from":"USD",
+	"to":"BYN",
+	"value":2.1019
+},
+{
+	"from":"BYN",
+	"to":"USD",
+	"value":0.7499
+},
+{
+	"from":"EUR",
+	"to":"BYN",
+	"value":2.3957
+},
+{
+	"from":"BYN",
+	"to":"EUR",
+	"value":0.47499
+},
+{
+	"from":"RUB",
+	"to":"BYN",
+	"value":0.032031
+},
+{
+	"from":"BYN",
+	"to":"RUB",
+	"value":31.1565
+},
+{
+	"from":"PLN",
+	"to":"BYN",
+	"value":0.55669
+},
+{
+	"from":"BYN",
+	"to":"PLN",
+	"value":1.79040
+},
+{
+	"from":"UAH",
+	"to":"BYN",
+	"value":0.07575
+},
+{
+	"from":"BYN",
+	"to":"UAH",
+	"value":13.1195
+},
+{
+	"from":"EUR",
+	"to":"USD",
+	"value":1.14019
+},
+{
+	"from":"USD",
+	"to":"EUR",
+	"value":0.87690
+},
+{
+	"from":"EUR",
+	"to":"PLN",
+	"value":4.29792
+},
+{
+	"from":"PLN",
+	"to":"EUR",
+	"value":0.23251
+},
+{
+	"from":"EUR",
+	"to":"UAH",
+	"value":2.1019
+},
+{
+	"from":"UAH",
+	"to":"EUR",
+	"value":0.03134
+},
+{
+	"from":"EUR",
+	"to":"RUB",
+	"value":74.7897
+},
+{
+	"from":"RUB",
+	"to":"EUR",
+	"value":0.01336
+},
+{
+	"from":"USD",
+	"to":"PLN",
+	"value":3.76937
+},
+{
+	"from":"PLN",
+	"to":"USD",
+	"value":0.26513
+},
+{
+	"from":"USD",
+	"to":"UAH",
+	"value":27.6208
+},
+{
+	"from":"UAH",
+	"to":"USD",
+	"value":0.03574
+},
+{
+	"from":"USD",
+	"to":"RUB",
+	"value":65.5943
+},
+{
+	"from":"RUB",
+	"to":"USD",
+	"value":0.01523
+},
+{
+	"from":"PLN",
+	"to":"UAH",
+	"value":7.32318
+},
+{
+	"from":"UAH",
+	"to":"PLN",
+	"value":0.13473
+},
+{
+	"from":"PLN",
+	"to":"RUB",
+	"value":17.3912
+},
+{
+	"from":"RUB",
+	"to":"PLN",
+	"value":0.05742
+},
+{
+	"from":"UAH",
+	"to":"RUB",
+	"value":2.34447
+},
+{
+	"from":"RUB",
+	"to":"UAH",
+	"value":0.42075
+}]

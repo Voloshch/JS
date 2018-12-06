@@ -44,32 +44,4 @@ t1.addEventListener('keyup', function(){
 });
 
 
-
-/*var map = {};
-var innerMap = {};
-
-var str = 'dollar';
-var innerStr = 'rub';
-var anotherInnerStr = 'blr';
-
-innerMap[innerStr] = 66;
-innerMap[anotherInnerStr] = 2.2;
-map[str] = innerMap;
-
-var getMap = map[str];
-console.log(getMap[innerStr]);
-console.log(getMap[anotherInnerStr]);
-
-var anotherInnerMap = {};
-anotherInnerMap[innerStr] = 80;
-anotherInnerMap[anotherInnerStr] = 3;
-
-
-var eurKey = 'eur';
-map[eurKey] = anotherInnerMap;
-
-var getMap = map[eurKey];
-console.log(getMap[innerStr]);
-console.log(getMap[anotherInnerStr]);*/
-/*var keyBox = document.getElementById("key");
  
